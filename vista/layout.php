@@ -26,13 +26,13 @@
         <ul class="navbar-nav mr-auto">
            <!-- inicio intem -->
            <li class="nav-item active">
-            <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="rutaControlador.php?opc=0">Inicio</a>
           </li>
            <!-- final intem -->
 
             <!-- inicio intem -->
             <li class="nav-item active">
-            <a class="nav-link" href="../controlador/rutaControlador.php?opc=1">Nosotros <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="../controlador/rutaControlador.php?opc=1">Nosotros</span></a>
           </li>
            <!-- final intem -->
 
