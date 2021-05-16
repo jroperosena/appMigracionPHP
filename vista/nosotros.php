@@ -1,5 +1,6 @@
-<div class="card-deck p-3">
+<div class="col-12  d-md-flex d-lg-flex">
       
+      <div class="col-12 col-md-4  col-lg-4 ">
       <div class="card p-3">
         <img class="card-img-top" src="../assets/pic/foto.jpg" alt="Card image cap">
         <div class="card-body d-flex flex-column align-items-center justify-content-center">
@@ -15,7 +16,9 @@
 
         </div>
       </div>
+      </div>
 
+      <div class="col-12 col-md-4  col-lg-4 ">
       <div class="card p-3">
 
       <?php 
@@ -30,7 +33,9 @@
 
       
       </div>
+      </div>
 
+      <div class="col-12 col-md-4  col-lg-4 ">
       <div class="card p-3">
         <img class="card-img-top" src="../assets/pic/foto.jpg" alt="Card image cap">
         <div class="card-body d-flex flex-column align-items-center justify-content-center">
@@ -41,6 +46,7 @@
           <small class="text-muted">mas carreta del integrante redes sociales cuenta de git hub etc</small>
         </div>
       </div>
+      </div>
 
      
 
@@ -48,4 +54,5 @@
 
 
 
-    </div>
+   
+      </div>
